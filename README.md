@@ -1,7 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
-## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
-## Components required: Dragino LPS8 Indoor LoRaWAN gateway, ETHERNET cable RJ45,Internet connection 
+## Aim: 
+To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
+## Components required: 
+Dragino LPS8 Indoor LoRaWAN gateway, ETHERNET cable RJ45,Internet connection 
 
 ## Theory :
 Dragino LPS8 Indoor LoRaWAN gateway
@@ -83,10 +85,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![Screenshot 2024-04-04 145143](https://github.com/s-adhithya/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/113497423/eafdb49c-ba34-4e4d-96ea-f96970185ef2)
+![WhatsApp Image 2024-04-05 at 10 51 21_62a4be4d](https://github.com/s-adhithya/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/113497423/70f996aa-1d84-43ac-a3ca-4cbc34882bbf)
 
 
 
 
 ## Results: 
-
+The configuration of the Dragino LPS8 Indoor LoRaWAN gateway for things network was configured successfully
 
